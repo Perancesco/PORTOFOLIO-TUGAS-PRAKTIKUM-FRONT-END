@@ -98,7 +98,7 @@ export default function Home() {
                             <div className="col-lg-9">
                                 <div style={{background: 'var(--second-bg-color)'}} className="p-4 p-md-5 rounded-3">
                                     <p className="lead mb-4">
-                                        Anda dapat menghubungi saya melalui email, telepon, atau terhubung dengan saya di media sosial di bawah ini.
+                                        Berikut Media Sosial Saya, dapat dipencet dan juga akan redirect
                                     </p>
                                     <div className="d-flex justify-content-center align-items-center flex-wrap mb-5">
                                         <div className="d-flex align-items-center mx-3 my-2">
